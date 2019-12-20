@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+Object {
+  "$$typeof": Symbol(react.forward_ref),
+  "attrs": Array [],
+  "displayName": "Styled(View)",
+  "inlineStyle": InlineStyle {
+    "rules": Array [
+      "
+    padding:8px;
+    padding-top:0;
+",
+    ],
+  },
+  "render": [Function],
+  "styledComponentId": "StyledNativeComponent",
+  "target": [Function],
+  "withComponent": [Function],
+}
+`;
