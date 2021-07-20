@@ -12,7 +12,7 @@
     "mobx": "^5.13.0",
     "mobx-react": "^5.4.4",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-maps": "0.25.0",
     "react-native-modal-datetime-picker": "^7.5.0",
